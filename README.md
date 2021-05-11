@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning nuttin'
 - 💞️ I’m looking to collaborate on global ✅ 
 - 📫 How to reach me، how?
+- 🇵🇸 "Hello",world'
+- 🌵 @musafarhoud == my('Instagram").py
 
 <!---
 MFA-python/MFA-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
