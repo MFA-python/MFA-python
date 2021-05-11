@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MFA-python.py
 - 👀 I’m interested in a-nime.
-- 🌱 I’m currently learning nuttin'
+- 🌱 I’m currently learning 🧠🕴
 - 💞️ I’m looking to collaborate on global ✅ 
 - 📫 How to reach me، how?
 - 🇵🇸 "Hello",world'
